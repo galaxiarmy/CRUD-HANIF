@@ -1,8 +1,8 @@
-import React from 'react'
-import { Row, Col, Button } from 'reactstrap'
-import { Link } from 'react-router-dom'
+import { faArrowLeft } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faUserPlus, faArrowLeft } from '@fortawesome/free-solid-svg-icons'
+import React from 'react'
+import { Link } from 'react-router-dom'
+import { Button, Col, Row } from 'reactstrap'
 
 const BackComponent = () => {
     return (
